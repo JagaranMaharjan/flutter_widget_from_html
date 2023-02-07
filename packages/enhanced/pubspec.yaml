@@ -14,9 +14,9 @@ dependencies:
   fwfh_cached_network_image: ^0.7.0+3
   fwfh_chewie: ^0.7.1
   fwfh_just_audio: ^0.9.0
-  #  fwfh_svg: ^0.7.2+1
   fwfh_svg:
-    path: ../fwfh_svg
+    git:
+      url: https://github.com/JagaranMaharjan/flutter_widget_from_html/tree/main/packages/fwfh_svg
   fwfh_url_launcher: ^0.9.0
   fwfh_webview: ">=0.6.2+5 <0.8.0"
   html: ^0.15.0
