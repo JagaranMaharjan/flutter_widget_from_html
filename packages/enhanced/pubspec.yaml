@@ -30,8 +30,8 @@ dependency_overrides:
     path: ../fwfh_chewie
   fwfh_just_audio:
     path: ../fwfh_just_audio
-  fwfh_svg:
-    path: ../fwfh_svg
+#  fwfh_svg:
+#    path: ../fwfh_svg
   fwfh_text_style:
     path: ../fwfh_text_style
   fwfh_url_launcher:
