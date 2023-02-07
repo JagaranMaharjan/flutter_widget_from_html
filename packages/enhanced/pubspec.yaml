@@ -16,7 +16,8 @@ dependencies:
   fwfh_just_audio: ^0.9.0
   fwfh_svg:
     git:
-      url: https://github.com/JagaranMaharjan/flutter_widget_from_html/tree/main/packages/fwfh_svg
+      url: https://github.com/JagaranMaharjan/flutter_widget_from_html
+      path: packages/fwfh_svg
   fwfh_url_launcher: ^0.9.0
   fwfh_webview: ">=0.6.2+5 <0.8.0"
   html: ^0.15.0
@@ -30,8 +31,8 @@ dependency_overrides:
     path: ../fwfh_chewie
   fwfh_just_audio:
     path: ../fwfh_just_audio
-#  fwfh_svg:
-#    path: ../fwfh_svg
+  fwfh_svg:
+    path: ../fwfh_svg
   fwfh_text_style:
     path: ../fwfh_text_style
   fwfh_url_launcher:
